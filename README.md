@@ -1,7 +1,5 @@
 ## CS 3219 OTOT Task A
 
-Name: Eugene Yong
-
 ### Task
 
 Deploy a simple web server using Nginx running in a Docker container
